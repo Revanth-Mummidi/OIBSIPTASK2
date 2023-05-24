@@ -64,17 +64,19 @@ h3{
 {
     width: 75%;
     padding: 15%;
+    float:left;
 }
 .development
 {
     padding: 15% ;
     width: 75%;
+    float:right;
 }
 .languages
 {
     width: 75%;
     padding: 15%;
-
+    float:left;
 }
 hr{
     border: dotted #7ac581 6px;
